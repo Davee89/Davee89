@@ -7,7 +7,7 @@
     - HTML5/CSS3/JS/React/Git/ at infoShare Academy [Bootcamp](https://infoshareacademy.com/kurs/bootcamp-frontend/)
 - ⚡ I’m currently learning TypeScript and improving my React skills.
 - 👨🏻‍💻 My technicall skills [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,git)](https://skills.thijs.gg)
-- 💞️ I would love to collaborate on Front-end Projects withe any other Frontend Developers or UI/UX Designers so dont hesitate to co tact me! 
+- 💞️ I would love to collaborate on Front-end Projects with any other Frontend Developers or UI/UX Designers so dont hesitate to contact me! 
 - 📫 Feel free to contact me: davematras@protonmail.com
 
 <!--
