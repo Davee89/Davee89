@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my portfolio project! Coming soon ☀️⚛️🚀
 
 - 🌱 I’ve learned recently (Jan 2023):
-    - HTML5/CSS3/JS/React/Git/ at infoShare Academy [Bootcamp](https://infoshareacademy.com/kurs/bootcamp-frontend/)
+    - HTML5/CSS3/JS/React/Git/ 
 - ⚡ At the moment I’m learning TypeScript and improving my React skills.
 
 - 👨🏻‍💻 My technicall skills: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,git)](https://skills.thijs.gg)
