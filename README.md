@@ -12,8 +12,8 @@
 
 ### 📊 GitHub Stats  
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davee89&show_icons=true&theme=tokyonight&rank_icon=github&bg_color=45,fc6c48,ff6699,8e44ad&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF" width="45%" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davee89&layout=compact&theme=tokyonight&bg_color=330,8e44ad,ff6699,fc6c48&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF" width="45%" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davee89&show_icons=true&theme=tokyonight&rank_icon=github" width="45%" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davee89&layout=compact&theme=tokyonight" width="45%" height="160px" />
 </p>  
 
 ### 📫 Connect with Me  
